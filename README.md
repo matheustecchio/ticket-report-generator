@@ -1,4 +1,8 @@
 # Ticket Report Generator
+
+> [!NOTE]
+> This repository is archived. Development and maintenance will not continue.
+
 Generate PDF ticket reports from an Excel template.
 ## Requirements
 - Python 3
